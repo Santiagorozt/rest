@@ -42,18 +42,12 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
-		<dependency>
-        	<groupId>com.spring4all</groupId>
-        	<artifactId>swagger-spring-boot-starter</artifactId>
-       		<version> 1.9.1.RELEASE</version>
-    	</dependency>
 		
 		<dependency>
         	<groupId>org.apache.tomcat.embed</groupId>
         	<artifactId>tomcat-embed-jasper</artifactId>
        		<scope>provided</scope>
     	</dependency>
-    	
     	
         <dependency>
         	<groupId>javax.servlet</groupId>
